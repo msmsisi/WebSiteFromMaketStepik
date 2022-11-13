@@ -1,0 +1,221 @@
+body{
+padding-top: 0;
+margin-left: auto;
+margin-right: auto;
+width: 1219px;
+background: rgb(0, 0, 0);
+}
+.navbar {
+    display: flex;
+    width: 1219;
+    position: fixed;
+    height: 60px;
+    background-color: #007765;
+    margin-top: -8px;
+    margin-bottom: 0px;
+    padding-top:15px;
+    padding-left:775px ;
+}
+
+.navbar .container .navbar-wrap{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+padding-right:10px:
+}
+
+.navbar-menu{
+    list-style-type:none ;
+    padding-left: 0px;
+    margin-bottom:0px;
+}
+
+.navbar-menu li {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.navbar-menu li a {
+    display: inline;
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+}
+
+.navbar-brand{
+    position: absolute;
+    top: 20px;
+    left: 55px;
+    
+}
+
+.PiperText{
+    display: flex;
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 84px;
+    justify-content:center;
+    padding-top: 160px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+
+}
+.pipernet{
+    background-image: url("PhotoMaket/image.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 403px;
+    padding-bottom: 0px;
+margin-bottom: 0px;
+padding-top: 67px;
+}
+.TheProblem{
+    height: 60px;
+    background-color: white;
+    height: 719px;
+    margin-top: -20px;
+    
+}
+.TheProblemText{
+    display: flex;
+    justify-content:center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    color: #007765;
+    
+}
+
+.Obzach{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+margin-left: 58px;
+}
+.Hero{
+    height: 483px;
+    background-image: url("PhotoMaket/image\ \(2\).png");
+    margin-top: -50px;
+
+}
+.HeroText{
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    padding-top: 148px;
+    padding-left:70px ;
+    padding-right: 70px ;
+    color: aliceblue;
+    list-style-type:none ;
+}
+.PPC{
+    height: 604px;
+    background-color: aliceblue;
+    margin-top: -53px;
+}
+.PiedPiperCoin{
+    display: flex;
+    justify-content:center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+
+color: #007765;
+}
+.LOGO{
+    display: flex;
+    justify-content: right;
+    margin-left: 58px;
+}
+
+.LOGO .Obzach{ 
+    margin-left: 48px;
+}
+.bold{
+    font-weight: bold;
+}
+.TheTeam{
+    height: 845px;
+    background-color: aliceblue;
+    margin-top: -53px;
+}
+.TeamText{
+    display: flex;
+    justify-content:center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    color: #007765;
+}
+.TeamPhoto{
+    display: inline-block;
+    margin-left: 110px;
+    padding: 1;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
+
+.TeamPhoto2{
+    display: inline-block;
+    margin-left: 121px;
+    padding: 1;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
+h2{
+    font-family: 'Roboto';
+    justify-items: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 20px;
+    color: #007765;
+}
+.TeamPhoto img{
+    width: 168px;
+    height: 168px;
+}
+.foot{
+    margin-top: -18px;
+    height: 176px;
+    background-color: #333333;
+}
+
+.FootText{
+    padding-top: 48px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.FootText li{
+    list-style-type:none ;
+}
