@@ -3,6 +3,7 @@ padding-top: 0;
 margin-left: auto;
 margin-right: auto;
 width: 1219px;
+max-width: 1219px;
 background: rgb(0, 0, 0);
 }
 .navbar {
@@ -166,8 +167,9 @@ color: #007765;
     color: #007765;
 }
 .TeamPhoto{
-    display: inline-block;
-    margin-left: 110px;
+    display: flex;
+    justify-content:space-between;
+    margin-left: 48px;
     padding: 1;
     font-family: 'Roboto';
     font-style: italic;
@@ -178,8 +180,9 @@ color: #007765;
 }
 
 .TeamPhoto2{
-    display: inline-block;
-    margin-left: 121px;
+    display: flex;
+    justify-content:space-between;
+    margin-left: 48px;
     padding: 1;
     font-family: 'Roboto';
     font-style: italic;
@@ -202,6 +205,8 @@ h2{
     height: 168px;
 }
 .foot{
+    width: 1219px;
+    max-width: 1219px;
     margin-top: -18px;
     height: 176px;
     background-color: #333333;
